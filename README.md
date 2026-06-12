@@ -74,5 +74,4 @@ I enjoy transforming ideas into scalable solutions and continuously exploring em
 
 ## 🏆 Achievements
 
-- AI/ML Engineering Student
 - AWS Ai for Bharat Hackathon Participant
